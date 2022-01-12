@@ -2,7 +2,7 @@
 
 - 🚩 Atualmente estou Morando em Rio Real Bahia
 - 🌱 Estou estudando muito sobre C# e .Net em geral
-- ⚡ Gosto de Filmes, Séries e Animes
+- ⚡ Gosto de Filmes, Séries , Animes e Musicas
 - 🙋‍♂️ Pronomes: Ele/Dele
 
  <br>
