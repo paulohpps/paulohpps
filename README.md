@@ -35,12 +35,9 @@
  </div>
 <br/>
   <div align="center">
-  <a href="https://www.linkedin.com/in/miguel-oliveira-129549225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.instagram.com/eimigueloliveir/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-   <a href="https://t.me/eimigueloliveir" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-   <a href="https://www.youtube.com/c/eimigueloliveir" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-   <a href="https://www.twitch.tv/eimigueloliveir" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-   <a href="https://discord.gg/FZpH3SZahH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/paulo-henrique-pereira-pires-da-silva-9636b521a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/paulohppsoficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://www.twitch.tv/paulohsplays" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
 
-<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/><a/>
+<a href="https://github.com/paulohpps"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/><a/>
