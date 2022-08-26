@@ -1,29 +1,46 @@
-### Olá! Eu Sou Paulo Henrique 👋
+<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=180&section=header&text=Paulo%20Henrique%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> <a/>
 
-- 🚩 Atualmente estou Morando em Rio Real Bahia
-- 🌱 Estou estudando muito sobre C# e .Net em geral
-- ⚡ Gosto de Filmes, Séries , Animes e Musicas
-- 🙋‍♂️ Pronomes: Ele/Dele
-
- <br>
- <div align="center">
-  <a href="https://github.com/paulohpps">
-  <img height="140em" title_color="#ffffff" src="https://github-readme-stats.vercel.app/api?username=paulohpps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohpps&layout=compact&langs_count=7&theme=dark">
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-
-  ##
-  
-  <div> 
-   <a href="https://https://twitter.com/PauloHsBR" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "https://paulohpps.github.io/Portifolio/"><img src="https://camo.githubusercontent.com/338aa9770fa3feee2268da2e2cbec7f64da1aba31d2b0791ffdb68461f70e096/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626c6f672d4646413530303f7374796c653d666f722d7468652d6261646765266c6f676f3d727373266c6f676f436f6c6f723d7768697465" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-pereira-pires-da-silva-9636b521a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+ <p> ● 👋 Olá! Eu Sou o Paulo Henrique.</p>
+ <p> ● 🚩 Atualmente estou Morando em Rio Real na Bahia.</p>
+ <p> ● ⚡ Gosto de Filmes, Séries, Jogos, Musicas e Animes.</p>
+ <p> ● 📜 Sou Full Stack a aproximadamente 4 anos.</p>
+ <p> ● ⚡ Me foco bastante na linguagem em C# e relacionadas.</p>
+<div/>
  
+<div align="center" >
+  <a href="https://github.com/paulohpps"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohpps&layout=compact&langs_count=7&theme=dark&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"> <a/>
+  <a href="https://wakatime.com/@paulohpps"><img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=paulohpps&title_color=58A6FF&theme=dark&layout=compact&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"> <a/>
+</div>
+<hr>
+
+<div align="center">
+<a href="https://github.com/paulohpps"><img align="center" src="https://komarev.com/ghpvc/?username=paulohpps&style=for-the-badge" alt="paulohpps" /><a/> <br/><br/>
+<a href="https://wakatime.com/@paulohpps"><img align="center" src="https://wakatime.com/badge/user/8c0aa454-3519-4744-97f3-d4dc674958de.svg" alt="paulohpps" /> <a>
+<div/>
+<br/>
+ <div align="center">
+   <a href= "https://github.com/paulohpps">
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code> 
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+    <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
+ </div>
+<br/>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/miguel-oliveira-129549225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/eimigueloliveir/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://t.me/eimigueloliveir" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+   <a href="https://www.youtube.com/c/eimigueloliveir" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+   <a href="https://www.twitch.tv/eimigueloliveir" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+   <a href="https://discord.gg/FZpH3SZahH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
+<a href="https://github.com/eimigueloliveir"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/><a/>
