@@ -16,7 +16,7 @@
 
 <div align="center">
 <a href="https://github.com/paulohpps"><img align="center" src="https://komarev.com/ghpvc/?username=paulohpps&style=for-the-badge" alt="paulohpps" /><a/> <br/><br/>
-<a href="https://wakatime.com/@paulohpps"><img align="center" src="https://wakatime.com/badge/user/8c0aa454-3519-4744-97f3-d4dc674958de.svg" alt="paulohpps" /> <a>
+<a href="https://wakatime.com/@paulohpps"><img align="center" src="https://wakatime.com/badge/user/8c0aa454-3519-4744-97f3-d4dc674958de.svg?style=for-the-badge" alt="paulohpps" /> <a>
 <div/>
 <br/>
  <div align="center">
