@@ -3,7 +3,6 @@
 <div align="center">
  <p> ● 👋 Olá! Eu Sou o Paulo Henrique.</p>
  <p> ● 🚩 Atualmente estou Morando em Rio Real na Bahia.</p>
- <p> ● ⚡ Gosto de Filmes, Séries, Jogos, Musicas e Animes.</p>
  <p> ● 📜 Sou Full Stack a aproximadamente 4 anos.</p>
  <p> ● ⚡ Me foco bastante na linguagem em C# e relacionadas.</p>
 <div/>
