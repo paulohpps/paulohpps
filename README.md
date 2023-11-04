@@ -9,7 +9,7 @@
  
 <div align="center" >
   <a href="https://github.com/paulohpps"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohpps&layout=compact&langs_count=7&theme=dark&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"> <a/>
-  <a href="https://wakatime.com/@paulohpps"><img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=paulohpps&title_color=58A6FF&theme=dark&layout=compact&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"> <a/>
+  <a href="https://wakatime.com/@paulohpps"><img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=paulohpps&title_color=58A6FF&theme=dark&layout=compact&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=10"> <a/>
 </div>
 <hr>
 
