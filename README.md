@@ -4,7 +4,7 @@
  <p> ● 👋 Olá! Eu Sou o Paulo Henrique.</p>
  <p> ● 🚩 Atualmente estou Morando em Rio Real na Bahia.</p>
  <p> ● 📜 Sou Full Stack a aproximadamente 2 anos.</p>
- <p> ● ⚡ Me foco bastante na linguagem em C# e relacionadas.</p>
+ <p> ● ⚡ Me foco bastante na linguagem C# e relacionadas.</p>
 <div/>
  
 <div align="center" >
